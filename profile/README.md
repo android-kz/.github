@@ -1,7 +1,7 @@
 # Android KZ 
 🇰🇿 Қазақстандағы Android developer қауымдастығы
 
-🇷🇺 Сообщество разработчиков Android в Казахстане
+🇷🇺 Сообщество Android разработчиков в Казахстане
 
 🇬🇧 Android developer community in Kazakhstan
 
